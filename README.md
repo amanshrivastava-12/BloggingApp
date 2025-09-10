@@ -85,4 +85,4 @@ Implement rate limiting and API security measures
 Create an admin dashboard for content management
 
 Github repo link:https://github.com/amanshrivastava-12/BloggingApp
-deployed app link:
+deployed app link:https://blogging-app-seven-lime.vercel.app/
